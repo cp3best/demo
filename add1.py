@@ -1,0 +1,5 @@
+a=input('输入一个数')
+b=input('输入一个数')
+a=int(a)
+b=int(b)
+print(a+b)
